@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thesubhasish/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/thesubhasish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thesubhasish/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/thesubhasish/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thesubhasish/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/thesubhasish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
