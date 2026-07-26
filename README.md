@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/thesubhasish/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/thesubhasish/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/thesubhasish/Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/thesubhasish/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/thesubhasish/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/thesubhasish/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thesubhasish/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/thesubhasish/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thesubhasish/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thesubhasish/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Indexed Tree
 |  |
