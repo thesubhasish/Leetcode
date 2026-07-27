@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thesubhasish/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/thesubhasish/Leetcode/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thesubhasish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
