@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/thesubhasish/Leetcode/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/thesubhasish/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/thesubhasish/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thesubhasish/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thesubhasish/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/thesubhasish/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Indexed Tree
 |  |
 | ------- |
