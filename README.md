@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/thesubhasish/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thesubhasish/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thesubhasish/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thesubhasish/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thesubhasish/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/thesubhasish/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/thesubhasish/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/thesubhasish/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thesubhasish/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thesubhasish/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thesubhasish/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thesubhasish/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thesubhasish/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/thesubhasish/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -432,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thesubhasish/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thesubhasish/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thesubhasish/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
