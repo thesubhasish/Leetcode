@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/thesubhasish/Leetcode/tree/master/0507-perfect-number) |
+| [1017-convert-to-base-2](https://github.com/thesubhasish/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/thesubhasish/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/thesubhasish/Leetcode/tree/master/1903-largest-odd-number-in-string) |
