@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thesubhasish/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/thesubhasish/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thesubhasish/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/thesubhasish/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thesubhasish/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/thesubhasish/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thesubhasish/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/thesubhasish/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thesubhasish/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/thesubhasish/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thesubhasish/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thesubhasish/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/thesubhasish/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/thesubhasish/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/thesubhasish/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/thesubhasish/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/thesubhasish/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/thesubhasish/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/thesubhasish/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/thesubhasish/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
