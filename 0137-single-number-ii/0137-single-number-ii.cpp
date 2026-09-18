@@ -1,16 +1,15 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>m;
-        for(auto it: nums){
-            m[it]++;
-
+        int ans =0;
+        for(int i =0; i<32;i++){
+            int sum =0;
+            for(int num :nums){
+                sum+= num>>i&1;}
+                sum%=3;
+                ans |=sum<<i;
+            
         }
-        for(auto it:m){
-            if(it.second==1){
-                return it.first;
-            }
-        }
-        return -1;
+        return ans;
     }
 };
