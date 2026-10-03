@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/thesubhasish/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thesubhasish/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/thesubhasish/Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/thesubhasish/Leetcode/tree/master/0507-perfect-number) |
 | [1017-convert-to-base-2](https://github.com/thesubhasish/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thesubhasish/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/thesubhasish/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/thesubhasish/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/thesubhasish/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/thesubhasish/Leetcode/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/thesubhasish/Leetcode/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
