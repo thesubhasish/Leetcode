@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/thesubhasish/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/thesubhasish/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thesubhasish/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/thesubhasish/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/thesubhasish/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thesubhasish/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/thesubhasish/Leetcode/tree/master/0796-rotate-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/thesubhasish/Leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/thesubhasish/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thesubhasish/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/thesubhasish/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/thesubhasish/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thesubhasish/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/thesubhasish/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/thesubhasish/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thesubhasish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thesubhasish/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/thesubhasish/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/thesubhasish/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
